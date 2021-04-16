@@ -20,3 +20,6 @@ class Bird {
     this.sex = sex;
   }
 }
+
+let sasha = new Cat('Sasha', 'Girl');
+sasha.speak();
