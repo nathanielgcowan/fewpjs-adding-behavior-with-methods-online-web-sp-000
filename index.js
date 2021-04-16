@@ -24,5 +24,3 @@ class Bird {
   }
 }
 
-let sasha = new Cat('Sasha', 'Girl');
-sasha.speak();
