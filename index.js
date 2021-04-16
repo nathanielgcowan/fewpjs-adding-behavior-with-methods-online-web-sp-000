@@ -1,4 +1,4 @@
 // Your code here
-class Cat {
-
-}
+class Cat {}
+class Dog {}
+class Bird {}
